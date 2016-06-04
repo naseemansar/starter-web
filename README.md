@@ -9,3 +9,10 @@ Sample website with plenty of files for demos
 
 ##Deployment
 Adding for deploymemt
+
+###installation
+hello for ins
+
+####maintenance 
+
+how to do main
