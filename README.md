@@ -17,4 +17,8 @@ hello for ins
 
 how to do main and take enm
 
-####how to contribute
+<<<<<<< HEAD
+111####how to contributulle
+=======
+####How to contribute
+>>>>>>> qw
