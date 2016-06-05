@@ -17,8 +17,6 @@ hello for ins
 
 how to do main and take enm
 
-<<<<<<< HEAD
-111####how to contributulle
-=======
-####How to contribute
->>>>>>> qw
+####how to contributulle
+
+#####Adding line for rebasing 
