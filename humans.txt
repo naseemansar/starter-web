@@ -6,8 +6,7 @@
  naseem  naseem@tes2.com 
 # THANKS
 
-    <name>
-
+thanks 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
